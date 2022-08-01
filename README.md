@@ -1,2 +1,2 @@
 # Timer
- AtCoderに提出したコードを拡張
+ AtCoderに提出したコードを拡張したよ
